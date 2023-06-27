@@ -1,0 +1,11 @@
+body {
+  background: url("https://static.vecteezy.com/system/resources/previews/001/589/630/original/green-background-with-fading-square-and-dots-free-vector.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.w-450 {
+  width: 450px;
+}
+.vh-100 {
+  min-height: 100vh;
+}
